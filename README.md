@@ -1,6 +1,6 @@
 # StockDataAnalysis Project
-This Repository contains different methods to access the Stock Data available online through webScraping, online API's and also
-using YahooFinancials.
+This Repository contains different methods like webScraping, online API's and also
+using YahooFinancials to access any companies Stock Data available online.
 Then there is basic analysis of some stocks on the basis of different investment parameters eg return etc.
 There is also some technical indicators like MACD, MA, RENKO etc all implemented from scratch. The parameters can be changed to 
 see the resulting return on an investment.
